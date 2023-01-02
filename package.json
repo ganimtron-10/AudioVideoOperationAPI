@@ -1,0 +1,25 @@
+{
+  "name": "avop-api",
+  "version": "1.0.0",
+  "description": "Audio Video Operations API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganimtron-10/AudioVideoOperationAPI.git"
+  },
+  "author": "Praneeth Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganimtron-10/AudioVideoOperationAPI/issues"
+  },
+  "homepage": "https://github.com/ganimtron-10/AudioVideoOperationAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gtts": "^0.1.1",
+    "uuid": "^9.0.0",
+    "videoshow": "^0.1.12"
+  }
+}
